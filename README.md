@@ -1,4 +1,4 @@
-## kaggle-Competitions
+### kaggle-Competitions
 Some of the kaggles competitions I am taking part on.
 
 1. playground-series-s3e14-> 
